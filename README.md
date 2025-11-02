@@ -637,7 +637,7 @@
                         withdrawForm.reset();
                         updateUI();
                         tg.showAlert('আপনার উইথড্র অনুরোধ সফলভাবে জমা হয়েছে।');
-                 
+                    }
                 });
             });
 
